@@ -51,6 +51,8 @@ https://templatemo.com/tm-597-neural-glass
      line-height: 1.6;
      -webkit-font-smoothing: antialiased;
      -moz-osx-font-smoothing: grayscale;
+     max-width: 100%;
+     overflow-x: hidden;
 }
 /* Enhanced background colors - Purple/Pink/Green palette */
  .neural-background {
